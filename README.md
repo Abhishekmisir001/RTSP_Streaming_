@@ -1,6 +1,6 @@
 # rtsp
 
-A new Flutter project.
+A new Flutter project. In this i made a RTSP streaming app , it fetches live video frames and play videos , i used flutter_vlc_player package for playing videos. I got this as an internship assignment by VECROS.
 
 ## Getting Started
 
